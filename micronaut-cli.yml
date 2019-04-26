@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: proj2
+---
+testFramework: spek
+sourceLanguage: kotlin
